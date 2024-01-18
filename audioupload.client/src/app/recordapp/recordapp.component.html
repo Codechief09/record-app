@@ -1,0 +1,31 @@
+
+<main class="main">
+  <div class="form">
+    <div>
+      <caption>Angular-C#-Recorder</caption>
+      <div class="form-content">
+        <div class="buttons">
+          <button (click)="startRecording()" class="btn" [disabled]="isRecording">
+            Start Recording
+          </button>
+          <button (click)="stopRecording()" class="btn" [disabled]="!isRecording">
+            Stop Recording
+          </button>
+          <button (click)="handleUpload()" class="btn" [disabled]="isRecording || audioChunks.length === 0">
+            Upload Recordings
+          </button>
+        </div>
+        <a href="" id="a"></a>
+      </div>
+      <div class="form-content">
+        <div *ngIf="audioFiles.length > 0">
+          <h2 style="text-align: center">Response URLs:</h2>
+          <div *ngFor="let url of responseUrls; let i = index" class="item-flex">
+            <p style="display: inline;">recording{{i + 1}}.wav:</p>
+            <p style="display: inline;">{{ url }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>

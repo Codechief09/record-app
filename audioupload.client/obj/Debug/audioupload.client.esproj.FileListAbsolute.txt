@@ -1,0 +1,2 @@
+D:\CSharp\recordUpload\aspProject\AudioUpload\audioupload.client\obj\Debug\audioupload.client.esproj.CoreCompileInputs.cache
+D:\CSharp\recordUpload\aspProject\audio\audioupload.client\obj\Debug\audioupload.client.esproj.CoreCompileInputs.cache

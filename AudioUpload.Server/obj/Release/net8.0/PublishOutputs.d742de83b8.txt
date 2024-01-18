@@ -1,0 +1,14 @@
+D:\CSharp\recordUpload\aspProject\_Release\AudioUpload.Server.exe
+D:\CSharp\recordUpload\aspProject\_Release\appsettings.Development.json
+D:\CSharp\recordUpload\aspProject\_Release\appsettings.json
+D:\CSharp\recordUpload\aspProject\_Release\AudioUpload.Server.dll
+D:\CSharp\recordUpload\aspProject\_Release\AudioUpload.Server.deps.json
+D:\CSharp\recordUpload\aspProject\_Release\AudioUpload.Server.runtimeconfig.json
+D:\CSharp\recordUpload\aspProject\_Release\AudioUpload.Server.pdb
+D:\CSharp\recordUpload\aspProject\_Release\CloudinaryDotNet.dll
+D:\CSharp\recordUpload\aspProject\_Release\Microsoft.AspNetCore.SpaProxy.dll
+D:\CSharp\recordUpload\aspProject\_Release\Microsoft.OpenApi.dll
+D:\CSharp\recordUpload\aspProject\_Release\Newtonsoft.Json.dll
+D:\CSharp\recordUpload\aspProject\_Release\Swashbuckle.AspNetCore.Swagger.dll
+D:\CSharp\recordUpload\aspProject\_Release\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CSharp\recordUpload\aspProject\_Release\Swashbuckle.AspNetCore.SwaggerUI.dll
